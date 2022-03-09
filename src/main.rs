@@ -302,7 +302,7 @@ impl Bank {
                 id, client.available, client.held, client.total, client.locked
             );
         }
-        println!("{:#?}", self);
+        // println!("{:#?}", self);
     }
 }
 
